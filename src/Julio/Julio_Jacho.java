@@ -12,5 +12,7 @@ public class Julio_Jacho {
     public void nombre()
     {
         System.out.println("julio jacho");
+        
+        System.out.println("Julio.Julio_Jacho.nombre()");
     }
 }
