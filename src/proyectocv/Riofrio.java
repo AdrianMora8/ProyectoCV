@@ -10,7 +10,4 @@ package proyectocv;
  */
 public class Riofrio {
     //JAcho
-    //Pillapa Wilson
-    //Toa
-    //Kevin
 }

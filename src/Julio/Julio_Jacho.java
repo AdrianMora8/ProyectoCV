@@ -13,8 +13,4 @@ public class Julio_Jacho {
     {
         System.out.println("julio jacho");
     }
-    public void saludo()
-    {
-        System.out.println("hola oscar julio jacho");
-    }
 }
